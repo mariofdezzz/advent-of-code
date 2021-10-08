@@ -1,0 +1,9 @@
+{
+  "author": "Mario Ferrero Fernández",
+  "scripts": {
+    "start": "npx aoc start"
+  },
+  "dependencies": {
+    "@aocjs/cli": "^1.0.0-alpha.0"
+  }
+}
